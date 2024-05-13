@@ -1,20 +1,15 @@
-# Day-3-Portfolio-Website-Dynamic
+# Day-03-PortfolioWebsite - 03
 
 Embark on an exhilarating journey of web development with the "100 Days, 100 Websites" challenge! Over the course of 100 days, immerse yourself in the world of HTML, CSS, and JavaScript as you craft 100 unique websites from scratch. Each day presents an opportunity to explore new design concepts, master coding techniques, and unleash your creativity.
 
-Live Demo - https://quantumcoding123.github.io/Day-3-Portfolio-Website-Dynamic/
+Live Demo Light - https://yourcodecollection.github.io/Day_03_Personal_Portfolio/
 
-# Join Us
+Join Us
+GitHub-https://github.com/Yourcodecollection
 
-GitHub-https://github.com/QuantumCoding123
+Instagram - https://www.instagram.com/your_code_collection/
 
-YouTube-https://www.youtube.com/channel/UC3Dz2Yaz2uWAczNU4GEDg5Q
-
-Instagram - https://www.instagram.com/quantumcoding123
-
-Telegram-https://t.me/+yw9iQAMmd002NTI1
-
-Whatsapp- https://whatsapp.com/channel/0029VaVInCA2ZjCjXEf2IC2I
+BuyMeACoffee - https://buymeacoffee.com/sahilkumar.dev
 
 With a plethora of free resources available online, including tutorials, code snippets, and open-source projects, you'll have everything you need to bring your ideas to life. Whether you're building a personal blog, an e-commerce site, a portfolio showcase, or an interactive web application, the possibilities are endless.
 
